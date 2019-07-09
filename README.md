@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rubdevopson/TailwindTraders/_apis/build/status/Website-CI?branchName=master)](https://dev.azure.com/rubdevopson/TailwindTraders/_build/latest?definitionId=220&branchName=master)
+
 # Tailwind Traders - Sample Reference Applications
 
 We are happy to announce the release of Tailwind Traders. A fictitious retail company showcasing the future of intelligent application experiences. These reference apps are all are powered by the Azure cloud, built with best-in-class tools, and made smarter through data and AI.
